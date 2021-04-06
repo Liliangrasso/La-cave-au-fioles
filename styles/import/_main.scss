@@ -1,0 +1,8 @@
+@import "variable_overrides";
+@import "../../node_modules/bootstrap/scss/bootstrap.scss";
+
+body{
+    nav{
+        background-color: rgb(210, 185, 162);
+    }
+}
